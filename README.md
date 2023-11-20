@@ -83,7 +83,7 @@ If, when you connect your ESP8266 card to your computer via USB, you do not see 
 
 ## Install Arduino IDE for ESP8266
 
-> **Warning**<br>
+> [!WARNING]
 > For this project, I used version `1.8.4` of the [Arduino IDE](https://www.arduino.cc/en/software/OldSoftwareReleases), other versions may not work with my source code.
 
 1. Open Arduino IDE
